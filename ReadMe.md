@@ -21,5 +21,3 @@ For the Styling part you can use Bootstrap for styling buttons , footers, etc
 The link to the google form is: Click Here For Submission Form
 In case click doesn't work you can copy paste the following link in your browser for submission of the project:
 https://forms.gle/teSNr3HYNHfpMM426
-
-Live Link:
